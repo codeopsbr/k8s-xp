@@ -6,7 +6,7 @@ metadata:
     app: backend
 spec:
   containers:
-  - name: docker-demo-app
-    image: mateusprado/docker-demo-app
+  - name: docker-app-demo
+    image: mateusprado/docker-app-demo
     ports:
     - containerPort: 5000
